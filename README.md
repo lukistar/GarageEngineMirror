@@ -8,5 +8,5 @@ Couldn't resolve some hidden dependencies (error: AL/al.h: No such file or direc
 
 This should work on Windows 7 without any problems.(if you have followed the instructions on https://github.com/vova616/GarageEngine)
 
-Install:
-go get https://github.com/lukistar/GarageEngineMirror.git
+Download and Install:
+go get github.com/lukistar/GarageEngineMirror.git
